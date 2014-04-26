@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navigation {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 710px;
+	margin-left:15px;
+}
+
+#navigation ul li a:link, #navigation ul li a:active, #navigation ul li a:visited {
+
+    display: block;
+    font: 12px Calibri,Arial,Helvetica,sans-serif;
+    margin: 0;
+     padding: 8px 0 13px 7px;
+}
+
+#sidebar li ul li  {
+
+    height: auto;
+    margin:0;
+    padding: 7px 10px;
+    width: 280px;
+float:left;
+}
+

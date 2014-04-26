@@ -1,0 +1,50 @@
+Version 1.0 (April 10th 2011)
+--------------------------------------------------------------\
+ - Implement the cincopa plugin
+ - minor bug fixes
+ 
+Version 0.44 ( December 14st 2010 )
+--------------------------------------------------------------
+- Fixed the PHP tag problem in cincopa.php
+
+Version 0.43 ( December 1st 2010 )
+--------------------------------------------------------------
+- Fixed the notification in the admin
+- Secure the wizard page
+- re-skin the wizard page
+
+Version 0.42 ( November 23th 2010 )
+--------------------------------------------------------------
+- removed the "Easy Albums" tab from the settings page.
+- Fixed the language file.
+- changed the option saving funtions on the admin page to work with WPMU.
+- Removed the images with the text. better for translations.
+- Administrator can view and edit any album for all users. 
+
+Version 0.41 ( November 17th 2010 )
+--------------------------------------------------------------
+- fixed the "visit plugin site" link.
+
+Version 0.4 ( November 17th 2010 )
+--------------------------------------------------------------
+- cleaned up code
+- Added .po file, for translation
+- cleared up the top menu useless buttons.
+- Changed plugin mechanics for publishing to activity stream.
+
+Version 0.3 ( November 9th 2010 )
+--------------------------------------------------------------
+- added easyalbums account identifier
+- implemented secret key verification in the admin
+- Created notification on create album errors
+
+
+Version 0.2 ( November 8th 2010 )
+--------------------------------------------------------------
+- Activation Bug fixed
+- css loading bug fixed
+
+Version 0.1 ( November 8th 2010 )
+--------------------------------------------------------------
+- Initial Release.
+
